@@ -2,44 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="422599db-075c-4930-872a-a3571a855155" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/antlr-2.7.7.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/dom4j-1.6.1.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/hibernate-commons-annotations-4.0.2.Final.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/hibernate-core-4.2.2.Final.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/hibernate-jpa-2.0-api-1.0.1.Final.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/javassist-3.15.0-GA.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/jboss-logging-3.1.0.GA.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/jboss-transaction-api_1.1_spec-1.0.1.Final.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitattributes" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Hibernate_4_2_2_4_2_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Java Programming.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/IntroJava/chapter1/ApproxPI.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/IntroJava/chapter1/ComputeExpressions.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/IntroJava/chapter1/MeasureCircle.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/IntroJava/chapter1/MeasureRectangle.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/IntroJava/chapter1/Pattern.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/IntroJava/chapter1/PopProjection.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/IntroJava/chapter1/PrintTable.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/IntroJava/chapter1/SpeedKM.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/IntroJava/chapter1/SpeedMiles.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/IntroJava/chapter1/SummationSeries.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/IntroJava/chapter1/Welcome.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/IntroJava/chapter1/WelcomeAgain.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/IntroJava/chapter2/Celsius2Fahrenheit.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/IntroJava/chapter2/Feet2Meters.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/IntroJava/chapter2/LbsToKg.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/IntroJava/chapter2/NumberOfYears.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/IntroJava/chapter2/SumDigitsInteger.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/IntroJava/chapter2/TipCalculator.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/IntroJava/chapter2/VolumeCylinder.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/IntroJava/package-info.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/IntroJava/chapter2/Acceleration.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/IntroJava/chapter2/CalcEnergy.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/IntroJava/chapter2/CompoundValue.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/IntroJava/chapter2/ComputeBMI.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/IntroJava/chapter2/CurrentTime.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/IntroJava/chapter2/PopProjection2.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/IntroJava/chapter2/RunwayLength.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Java Programming/IntroJava/chapter1/PopProjection.class" afterPath="$PROJECT_DIR$/out/production/Java Programming/IntroJava/chapter1/PopProjection.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/IntroJava/chapter1/PopProjection.java" afterPath="$PROJECT_DIR$/src/IntroJava/chapter1/PopProjection.java" />
     </list>
     <ignored path="Java Programming.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -61,72 +33,32 @@
     <favorites_list name="Java Programming" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Celsius2Fahrenheit.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/IntroJava/chapter2/Celsius2Fahrenheit.java">
+    <leaf>
+      <file leaf-file-name="RunwayLength.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/IntroJava/chapter2/RunwayLength.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+            <state relative-caret-position="425">
+              <caret line="25" column="0" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="VolumeCylinder.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/IntroJava/chapter2/VolumeCylinder.java">
+      <file leaf-file-name="CompoundValue.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/IntroJava/chapter2/CompoundValue.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="17" column="52" selection-start-line="17" selection-start-column="52" selection-end-line="17" selection-end-column="52" />
+            <state relative-caret-position="442">
+              <caret line="26" column="53" selection-start-line="26" selection-start-column="53" selection-end-line="26" selection-end-column="53" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Feet2Meters.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/IntroJava/chapter2/Feet2Meters.java">
+      <file leaf-file-name="ComputeBMI.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/IntroJava/chapter2/ComputeBMI.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="66" selection-start-line="14" selection-start-column="66" selection-end-line="14" selection-end-column="66" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="LbsToKg.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/IntroJava/chapter2/LbsToKg.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TipCalculator.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/IntroJava/chapter2/TipCalculator.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" column="80" selection-start-line="16" selection-start-column="80" selection-end-line="16" selection-end-column="80" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SumDigitsInteger.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/IntroJava/chapter2/SumDigitsInteger.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="476">
-              <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="NumberOfYears.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/IntroJava/chapter2/NumberOfYears.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="20" column="101" selection-start-line="20" selection-start-column="101" selection-end-line="20" selection-end-column="101" />
+            <state relative-caret-position="221">
+              <caret line="13" column="24" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
               <folding />
             </state>
           </provider>
@@ -175,6 +107,14 @@
         <option value="$PROJECT_DIR$/src/IntroJava/chapter2/TipCalculator.java" />
         <option value="$PROJECT_DIR$/src/IntroJava/chapter2/SumDigitsInteger.java" />
         <option value="$PROJECT_DIR$/src/IntroJava/chapter2/NumberOfYears.java" />
+        <option value="$PROJECT_DIR$/src/IntroJava/chapter2/CurrentTime.java" />
+        <option value="$PROJECT_DIR$/src/IntroJava/chapter2/Acceleration.java" />
+        <option value="$PROJECT_DIR$/src/IntroJava/chapter2/CalcEnergy.java" />
+        <option value="$PROJECT_DIR$/src/IntroJava/chapter1/PopProjection.java" />
+        <option value="$PROJECT_DIR$/src/IntroJava/chapter2/PopProjection2.java" />
+        <option value="$PROJECT_DIR$/src/IntroJava/chapter2/RunwayLength.java" />
+        <option value="$PROJECT_DIR$/src/IntroJava/chapter2/CompoundValue.java" />
+        <option value="$PROJECT_DIR$/src/IntroJava/chapter2/ComputeBMI.java" />
       </list>
     </option>
   </component>
@@ -215,7 +155,6 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -298,6 +237,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -309,15 +249,15 @@
     <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../java-classes" />
   </component>
-  <component name="RunManager" selected="Application.NumberOfYears">
-    <configuration default="false" name="Feet2Meters" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.ComputeBMI">
+    <configuration default="false" name="PopProjection2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="IntroJava.chapter2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="IntroJava.chapter2.Feet2Meters" />
+      <option name="MAIN_CLASS_NAME" value="IntroJava.chapter2.PopProjection2" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -330,14 +270,14 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="LbsToKg" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="PopProjection" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="IntroJava.chapter2.*" />
+          <option name="PATTERN" value="IntroJava.chapter1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="IntroJava.chapter2.LbsToKg" />
+      <option name="MAIN_CLASS_NAME" value="IntroJava.chapter1.PopProjection" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -350,14 +290,14 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="TipCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="RunwayLength" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="IntroJava.chapter2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="IntroJava.chapter2.TipCalculator" />
+      <option name="MAIN_CLASS_NAME" value="IntroJava.chapter2.RunwayLength" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -370,14 +310,14 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="SumDigitsInteger" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="CompoundValue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="IntroJava.chapter2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="IntroJava.chapter2.SumDigitsInteger" />
+      <option name="MAIN_CLASS_NAME" value="IntroJava.chapter2.CompoundValue" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -390,14 +330,14 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="NumberOfYears" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="ComputeBMI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="IntroJava.chapter2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="IntroJava.chapter2.NumberOfYears" />
+      <option name="MAIN_CLASS_NAME" value="IntroJava.chapter2.ComputeBMI" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -873,19 +813,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.Feet2Meters" />
-      <item index="1" class="java.lang.String" itemvalue="Application.LbsToKg" />
-      <item index="2" class="java.lang.String" itemvalue="Application.TipCalculator" />
-      <item index="3" class="java.lang.String" itemvalue="Application.SumDigitsInteger" />
-      <item index="4" class="java.lang.String" itemvalue="Application.NumberOfYears" />
+      <item index="0" class="java.lang.String" itemvalue="Application.PopProjection2" />
+      <item index="1" class="java.lang.String" itemvalue="Application.PopProjection" />
+      <item index="2" class="java.lang.String" itemvalue="Application.RunwayLength" />
+      <item index="3" class="java.lang.String" itemvalue="Application.CompoundValue" />
+      <item index="4" class="java.lang.String" itemvalue="Application.ComputeBMI" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.NumberOfYears" />
-        <item index="1" class="java.lang.String" itemvalue="Application.SumDigitsInteger" />
-        <item index="2" class="java.lang.String" itemvalue="Application.TipCalculator" />
-        <item index="3" class="java.lang.String" itemvalue="Application.LbsToKg" />
-        <item index="4" class="java.lang.String" itemvalue="Application.Feet2Meters" />
+        <item index="0" class="java.lang.String" itemvalue="Application.ComputeBMI" />
+        <item index="1" class="java.lang.String" itemvalue="Application.CompoundValue" />
+        <item index="2" class="java.lang.String" itemvalue="Application.RunwayLength" />
+        <item index="3" class="java.lang.String" itemvalue="Application.PopProjection2" />
+        <item index="4" class="java.lang.String" itemvalue="Application.PopProjection" />
       </list>
     </recent_temporary>
   </component>
@@ -909,12 +849,13 @@
       <updated>1473351799088</updated>
       <workItem from="1473351808581" duration="6655000" />
       <workItem from="1473433413261" duration="33000" />
-      <workItem from="1473451632104" duration="6477000" />
+      <workItem from="1473451632104" duration="11476000" />
+      <workItem from="1473522811039" duration="3550000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13165000" />
+    <option name="totallyTimeSpent" value="21714000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="0" width="1329" height="1047" extended-state="0" />
@@ -973,7 +914,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="10" column="60" selection-start-line="10" selection-start-column="60" selection-end-line="10" selection-end-column="60" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -981,7 +921,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="8" column="55" selection-start-line="8" selection-start-column="55" selection-end-line="8" selection-end-column="55" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -989,7 +928,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
           <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -997,7 +935,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
           <caret line="13" column="73" selection-start-line="13" selection-start-column="73" selection-end-line="13" selection-end-column="73" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1005,7 +942,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
           <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1013,7 +949,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="13" selection-end-column="75" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1021,7 +956,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
           <caret line="16" column="26" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1029,7 +963,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1037,7 +970,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="10" column="60" selection-start-line="10" selection-start-column="60" selection-end-line="10" selection-end-column="60" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1045,7 +977,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="8" column="55" selection-start-line="8" selection-start-column="55" selection-end-line="8" selection-end-column="55" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1053,7 +984,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
           <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1061,7 +991,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
           <caret line="13" column="73" selection-start-line="13" selection-start-column="73" selection-end-line="13" selection-end-column="73" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1069,7 +998,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
           <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1077,7 +1005,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="13" selection-end-column="75" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1085,7 +1012,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
           <caret line="16" column="26" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1093,7 +1019,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1101,7 +1026,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="8" column="27" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1109,7 +1033,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1117,7 +1040,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
           <caret line="12" column="29" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1125,7 +1047,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" column="102" selection-start-line="5" selection-start-column="102" selection-end-line="5" selection-end-column="102" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1133,15 +1054,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="10" column="60" selection-start-line="10" selection-start-column="60" selection-end-line="10" selection-end-column="60" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/IntroJava/chapter1/PopProjection.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="26" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1149,7 +1061,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="8" column="55" selection-start-line="8" selection-start-column="55" selection-end-line="8" selection-end-column="55" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1157,7 +1068,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
           <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1165,7 +1075,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
           <caret line="13" column="73" selection-start-line="13" selection-start-column="73" selection-end-line="13" selection-end-column="73" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1173,7 +1082,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
           <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1181,7 +1089,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="13" selection-end-column="75" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1189,7 +1096,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
           <caret line="13" column="67" selection-start-line="13" selection-start-column="67" selection-end-line="13" selection-end-column="67" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1197,55 +1103,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="10" column="46" selection-start-line="10" selection-start-column="46" selection-end-line="10" selection-end-column="46" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/IntroJava/chapter2/VolumeCylinder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="52" selection-start-line="17" selection-start-column="52" selection-end-line="17" selection-end-column="52" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/IntroJava/chapter2/Celsius2Fahrenheit.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/IntroJava/chapter2/Feet2Meters.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="66" selection-start-line="14" selection-start-column="66" selection-end-line="14" selection-end-column="66" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/IntroJava/chapter2/LbsToKg.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/IntroJava/chapter2/TipCalculator.java">
+    <entry file="file://$PROJECT_DIR$/src/IntroJava/chapter2/Acceleration.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
-          <caret line="16" column="80" selection-start-line="16" selection-start-column="80" selection-end-line="16" selection-end-column="80" />
-          <folding />
+          <caret line="16" column="86" selection-start-line="16" selection-start-column="86" selection-end-line="16" selection-end-column="86" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/IntroJava/chapter2/SumDigitsInteger.java">
+    <entry file="file://$PROJECT_DIR$/src/IntroJava/chapter2/CurrentTime.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="204">
+          <caret line="12" column="61" selection-start-line="12" selection-start-column="61" selection-end-line="12" selection-end-column="61" />
         </state>
       </provider>
     </entry>
@@ -1253,6 +1124,92 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
           <caret line="20" column="101" selection-start-line="20" selection-start-column="101" selection-end-line="20" selection-end-column="101" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/IntroJava/chapter2/SumDigitsInteger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/IntroJava/chapter2/TipCalculator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="80" selection-start-line="16" selection-start-column="80" selection-end-line="16" selection-end-column="80" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/IntroJava/chapter2/LbsToKg.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/IntroJava/chapter2/Feet2Meters.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="66" selection-start-line="14" selection-start-column="66" selection-end-line="14" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/IntroJava/chapter2/VolumeCylinder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="52" selection-start-line="17" selection-start-column="52" selection-end-line="17" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/IntroJava/chapter2/Celsius2Fahrenheit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/IntroJava/chapter1/PopProjection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="30" column="5" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/IntroJava/chapter2/PopProjection2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" column="30" selection-start-line="26" selection-start-column="30" selection-end-line="26" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/IntroJava/chapter2/CalcEnergy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="59" selection-start-line="14" selection-start-column="59" selection-end-line="14" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/IntroJava/chapter2/RunwayLength.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="0" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/IntroJava/chapter2/CompoundValue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" column="53" selection-start-line="26" selection-start-column="53" selection-end-line="26" selection-end-column="53" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/IntroJava/chapter2/ComputeBMI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="24" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
           <folding />
         </state>
       </provider>
